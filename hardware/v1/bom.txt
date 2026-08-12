@@ -1,0 +1,15 @@
+BILL OF MATERIALS - GATE-12V v1
+
+1. Battery 12V 10Ah (LiFePO4)
+2. Solar panel ~100W
+3. Charge controller
+4. Inverter 120V AC 1000W
+5. DC Relay (for high-side switching)
+6. Microcontroller: STM32 or ESP8266
+7. Step-down 12V → 3.3V/5V
+8. Wires, connectors, protoboard
+
+Pending:
+- Exact models.
+- Photos.
+- Connection diagram.
